@@ -60,7 +60,7 @@ defaults:
 
 # Serving
 url: "https://gustavofersilva.github.io"
-baseurl: "https://gustavofersilva.github.io"
+baseurl: ""
 
 # Includes
 include: ["_pages"]
