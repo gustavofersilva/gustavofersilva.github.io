@@ -59,8 +59,8 @@ defaults:
       comments: "false"
 
 # Serving
-url: "https://mariocodes.github.io"
-baseurl: ""
+url: "https://gustavofersilva.github.io"
+baseurl: "https://gustavofersilva.github.io"
 
 # Includes
 include: ["_pages"]
