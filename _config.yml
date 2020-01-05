@@ -3,7 +3,7 @@ name: Gustavo Ferreira da Silva
 job_title: Desenvolvedor Web
 email: gustavofersilva@gmail.com
 description: Desenvolvedor Web com conhecimentos de Marketing Digital e grande sede de curiosidade.
-avatar: https://mariocodes.github.io/assets/images/avatar.jpg
+avatar: https://pt.gravatar.com/userimage/99791733/ea44242f3f54b7aec63ed140fb2fb4af.jpeg
 favicon: /favicon.ico # TODO
 twitter_handler:
 analytics_code: # UA-XXXXXXX-2
@@ -18,9 +18,9 @@ social_networks:
 -  { name: twitter, url: '' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
--  { name: linkedin, url: 'http://www.linkedin.com/in/MarioCodes' }
+-  { name: linkedin, url: 'http://www.linkedin.com/in/gustavofersilva' }
 -  { name: skype, url: '' }
--  { name: github, url: 'http://www.github.com/MarioCodes' }
+-  { name: github, url: 'http://www.github.com/gustavofersilva' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
