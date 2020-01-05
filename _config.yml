@@ -59,7 +59,7 @@ defaults:
       comments: "false"
 
 # Serving
-url: ""
+url: "https://gustavofersilva.github.io"
 baseurl: ""
 
 # Includes
