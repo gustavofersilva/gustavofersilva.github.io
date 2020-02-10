@@ -43,7 +43,7 @@ social_networks:
 # Modules Settings
 show_categories: 1
 show_tags: 1
-show_email: 1
+show_email: 0
 show_rss: 0
 show_comments: 0
 show_menu: 1
@@ -59,7 +59,7 @@ defaults:
       comments: "false"
 
 # Serving
-url: "https://gustavofersilva.github.io"
+url: "http://gustavofersilva.com.br"
 baseurl: ""
 
 # Includes
