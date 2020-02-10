@@ -18,9 +18,9 @@ social_networks:
 -  { name: twitter, url: '' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
--  { name: linkedin, url: 'http://www.linkedin.com/in/gustavofersilva' }
+-  { name: linkedin, url: '' }
 -  { name: skype, url: '' }
--  { name: github, url: 'http://www.github.com/gustavofersilva' }
+-  { name: github, url: '' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
