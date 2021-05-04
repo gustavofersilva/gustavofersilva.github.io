@@ -59,8 +59,8 @@ defaults:
       comments: "false"
 
 # Serving
-url: "https://gustavoferreiradev.github.io"
-baseurl: "https://gustavoferreiradev.github.io"
+url: "https://gustavoferreiradev.github.io/"
+baseurl: "https://gustavoferreiradev.github.io/"
 
 # Includes
 include: ["_pages"]
